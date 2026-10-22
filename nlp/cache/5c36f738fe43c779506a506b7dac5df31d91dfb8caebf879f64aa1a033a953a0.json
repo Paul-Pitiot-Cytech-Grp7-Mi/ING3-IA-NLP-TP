@@ -1,0 +1,8 @@
+{
+ "reponse": "The character who says this line is Romeo.",
+ "tokens_entree": 89,
+ "tokens_sortie": 10,
+ "duree": 0.25999999046325684,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

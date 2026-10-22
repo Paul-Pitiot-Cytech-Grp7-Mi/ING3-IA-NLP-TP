@@ -1,0 +1,8 @@
+{
+ "reponse": "The character who says this line is Kate. Kate is a character in William Shakespeare's play \"A Midsummer Night's Dream.\"",
+ "tokens_entree": 97,
+ "tokens_sortie": 27,
+ "duree": 0.6018781661987305,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

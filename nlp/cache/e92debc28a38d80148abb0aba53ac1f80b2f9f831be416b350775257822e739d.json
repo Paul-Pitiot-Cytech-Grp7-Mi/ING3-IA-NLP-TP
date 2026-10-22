@@ -1,0 +1,8 @@
+{
+ "reponse": "Character: KING HENRY VI",
+ "tokens_entree": 759,
+ "tokens_sortie": 8,
+ "duree": 0.7997941970825195,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

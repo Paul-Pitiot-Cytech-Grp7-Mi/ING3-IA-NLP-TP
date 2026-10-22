@@ -1,0 +1,8 @@
+{
+ "reponse": "The character who says this line is Duke Vincentio.",
+ "tokens_entree": 183,
+ "tokens_sortie": 12,
+ "duree": 0.5532970428466797,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

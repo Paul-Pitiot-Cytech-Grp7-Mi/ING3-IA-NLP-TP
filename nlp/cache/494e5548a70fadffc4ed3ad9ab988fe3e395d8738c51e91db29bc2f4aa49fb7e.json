@@ -1,0 +1,8 @@
+{
+ "reponse": "ANGELO",
+ "tokens_entree": 587,
+ "tokens_sortie": 4,
+ "duree": 0.3941609859466553,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

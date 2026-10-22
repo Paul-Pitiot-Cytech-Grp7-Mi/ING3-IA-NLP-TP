@@ -1,0 +1,8 @@
+{
+ "reponse": "DUKE VINCENTIO",
+ "tokens_entree": 502,
+ "tokens_sortie": 6,
+ "duree": 0.27491211891174316,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

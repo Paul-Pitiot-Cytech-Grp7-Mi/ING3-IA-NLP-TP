@@ -1,0 +1,8 @@
+{
+ "reponse": "The character who says this line is Angelo.",
+ "tokens_entree": 249,
+ "tokens_sortie": 10,
+ "duree": 0.5102441310882568,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

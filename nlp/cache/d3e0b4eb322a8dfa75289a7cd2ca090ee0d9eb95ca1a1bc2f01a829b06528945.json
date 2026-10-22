@@ -1,0 +1,8 @@
+{
+ "reponse": "Character: ROMEO",
+ "tokens_entree": 574,
+ "tokens_sortie": 5,
+ "duree": 0.4145081043243408,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

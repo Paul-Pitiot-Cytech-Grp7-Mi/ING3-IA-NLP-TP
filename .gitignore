@@ -1,0 +1,8 @@
+.venv/
+out/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# corpus Tiny Shakespeare, retéléchargé par le TP1 Transformer
+transformer/input.txt

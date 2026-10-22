@@ -1,0 +1,8 @@
+{
+ "reponse": "The character who says this line is Petruchio.",
+ "tokens_entree": 99,
+ "tokens_sortie": 12,
+ "duree": 0.3014857769012451,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

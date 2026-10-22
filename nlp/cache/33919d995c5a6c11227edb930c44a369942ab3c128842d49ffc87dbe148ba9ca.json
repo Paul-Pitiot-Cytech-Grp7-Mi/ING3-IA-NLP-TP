@@ -1,0 +1,8 @@
+{
+ "reponse": "This line is spoken by Claudio, one of the characters in Shakespeare's \"Romeo and Juliet.\"",
+ "tokens_entree": 259,
+ "tokens_sortie": 23,
+ "duree": 0.7722499370574951,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

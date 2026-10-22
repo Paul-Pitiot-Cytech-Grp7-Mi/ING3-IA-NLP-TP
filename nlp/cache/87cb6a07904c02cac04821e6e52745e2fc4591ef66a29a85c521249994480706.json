@@ -1,0 +1,8 @@
+{
+ "reponse": "ROMEO",
+ "tokens_entree": 499,
+ "tokens_sortie": 3,
+ "duree": 0.2131037712097168,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}

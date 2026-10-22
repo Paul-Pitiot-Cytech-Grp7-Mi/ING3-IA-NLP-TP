@@ -1,0 +1,8 @@
+{
+ "reponse": "Character: DUKE VINCENTIO",
+ "tokens_entree": 416,
+ "tokens_sortie": 8,
+ "duree": 0.22590184211730957,
+ "provider": "ollama",
+ "modele": "qwen2.5:1.5b"
+}
